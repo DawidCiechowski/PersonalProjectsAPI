@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Introduction] (#introduction)
-* [Technologies] (#technologies)
-* [Usage] (#usage)
+* [Introduction] (#Introduction)
+* [Technologies] (#Technologies)
+* [Usage] (#Usage)
 
 ## Introduction
 
