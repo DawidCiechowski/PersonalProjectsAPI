@@ -23,13 +23,14 @@ my personal projects, which I've been working on over the years.
 
 ### GET Request for ALL projects
 
-'''
+```
 curl dawid-ciechowski.eu-west-2.elasticbeanstalk.com/api/v1/projects
-'''
+```
 
 ### GET Request for a SINGLE project
 
-'''
+```
+
 curl dawid-ciechowski.eu-west-2.elasticbeanstalk.com/api/v1/projects/{project_id}
-'''
+```
 
