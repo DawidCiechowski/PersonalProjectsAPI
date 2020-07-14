@@ -6,11 +6,13 @@
 * [Technologies] (#Technologies)
 * [Usage] (#Usage)
 
+<a name="Introduction" />
 ## Introduction
 
 Projects API is a personally created API, hosted on Amazon Web Services, which can be used to obtain information about
 my personal projects, which I've been working on over the years. 
 
+<a name="Technologies" />
 ## Technologies
 
 - Java 11
@@ -19,6 +21,7 @@ my personal projects, which I've been working on over the years.
 - PostgreSQL 42.2.14
 - AWS Elastic Beanstalk
 
+<a name="Usage" />
 ## Usage
 
 ### GET Request for ALL projects
