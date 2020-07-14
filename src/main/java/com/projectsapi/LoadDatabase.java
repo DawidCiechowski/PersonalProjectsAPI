@@ -19,12 +19,14 @@ public class LoadDatabase {
 
 	@Bean
 	CommandLineRunner initDatabase(ProjectRepository repository) {
-		List<String> tech = new ArrayList();
+		// List<String> tech = new ArrayList();
 
-		tech.add("Java");
-		tech.add("Spring Boot");
-		return args -> {
-            log.info("Preloading " + repository.save(new Project("Projects API", "Intro", tech, "This is a project", "link")));
-		};
+		// tech.add("Java");
+		// tech.add("Spring Boot");
+		// return args -> {
+        //     log.info("Preloading " + repository.save(new Project("Projects API", "Intro", tech, "This is a project", "link")));
+		// };
+
+		return args -> {};
 	}
 }
